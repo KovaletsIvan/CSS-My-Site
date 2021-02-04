@@ -43,6 +43,11 @@ h3 {
   top: 40px;
   right: 35%;
 }
+.montain-image{
+  width: 30%;
+  height: 30%;
+  margin: auto;
+}
 .my-image {
   height: 150px;
   width: 150px;
